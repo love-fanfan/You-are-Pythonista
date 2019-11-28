@@ -6,7 +6,7 @@
 * 代码编辑器：pycharm 2018.2
 * 使用模块：os,sys,random,pygame
 
-因为我们实现代码使用到了一个pygame的第三方模块，没有的大家可以先pip install 一下，这里顺便提供一个比较好的pygame的教程.
+因为我们实现代码使用到了一个pygame的第三方模块，没有的大家可以先pip install 一下，这里顺便提供一个比较好的pygame的教程(开始学习).
 
 `https://eyehere.net/2011/python-pygame-novice-professional-index/`
 
